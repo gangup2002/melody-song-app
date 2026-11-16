@@ -46,9 +46,6 @@ Allow notification permissions when prompted. Local notification behavior may di
 The root layout listens for React Native `AppState` changes and records foreground/background transitions in the console.
 
 ## Student details
-- Name: [Your name]
-- Student ID: [Your student ID]
+- Name:J A G D Perera
+- Student ID: PS/2022/102
 
-## Demonstration video
-[Add your public/unlisted demonstration video link here]
-# melody-song-app
