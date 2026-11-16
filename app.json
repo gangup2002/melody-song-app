@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Melody",
+    "slug": "melody",
+    "version": "1.0.0",
+    "scheme": "melody",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": [
+      "expo-router",
+      "expo-audio",
+      "expo-notifications"
+    ],
+    "ios": { "supportsTablet": true },
+    "android": { "package": "com.example.melody" }
+  }
+}
